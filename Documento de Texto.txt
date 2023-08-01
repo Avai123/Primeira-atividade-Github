@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 foi feita uma alteração por Josélia
 Primeiro projeto novo
 Eu alterei o projeto
+=======
+primeiro projeto novo
+>>>>>>> 569747ec4987dca216140463abd65761c17e72f0
